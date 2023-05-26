@@ -1,4 +1,6 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C4D16AQEP6RaKocc0KA/profile-displaybackgroundimage-shrink_350_1400/0/1628477658075?e=1664409600&v=beta&t=OGVWY6ohLxYCz31U0Ql2E77ToD6WF4JCTT4kJdDoSaA "Header")](https://www.linkedin.com/in/rodrigo-v-goulart/)
+[![Header]([https://media-exp1.licdn.com/dms/image/C4D16AQEP6RaKocc0KA/profile-displaybackgroundimage-shrink_350_1400/0/1628477658075?e=1664409600&v=beta&t=OGVWY6ohLxYCz31U0Ql2E77ToD6WF4JCTT4kJdDoSaA](https://github.com/RodrigoVGoulart/RodrigoVGoulart/assets/85882289/6806db60-c29e-426e-b343-b3a1079daee6) "Header")](https://www.linkedin.com/in/rodrigo-v-goulart/)
+
+
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
